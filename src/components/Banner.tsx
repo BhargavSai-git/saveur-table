@@ -18,7 +18,7 @@ const Banner: React.FC = () => {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat parallax"
         style={{ 
-          backgroundImage: 'url("https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg?auto=compress&cs=tinysrgb&w=1600")',
+          backgroundImage: 'url("https://media.istockphoto.com/id/1625128715/photo/most-common-allergens-food-shot-from-above.jpg?s=612x612&w=0&k=20&c=eySnRGClbojCE57tM2QdCdbVM7Gq63mwTXghpM_Lzvo=")',
           transform: `translateY(${scrollPosition * 0.5}px)`,
         }}
       >

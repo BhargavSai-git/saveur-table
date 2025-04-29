@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from 'react';
 import { Search, Instagram, Facebook, Twitter, Phone, Mail, Menu as MenuIcon, X } from 'lucide-react';
 
